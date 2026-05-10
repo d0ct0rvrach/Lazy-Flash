@@ -1,5 +1,7 @@
 
-# Lazy-Flash V1
+# Lazy-Flash V1 
+
+Currently, only Ubuntu and Debian systems are supported.
 
 **Lazy-Flash** is a set of Bash scripts designed for fast and automated server setup with 3X-UI, IPv6 management, and system diagnostics.
 
