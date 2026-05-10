@@ -1,5 +1,5 @@
 
-# Lazy-Flash
+# Lazy-Flash V1
 
 **Lazy-Flash** is a set of Bash scripts designed for fast and automated server setup with 3X-UI, IPv6 management, and system diagnostics.
 
@@ -33,13 +33,13 @@ This is the main installation script that performs:
 ### Ubuntu:
 
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/d0ct0rvrach/Lazy-Flash/refs/heads/main/Fullin-ersr.sh && chmod +x install.sh && sudo ./install.sh
+wget -O install.sh https://raw.githubusercontent.com/d0ct0rvrach/Lazy-Flash/refs/heads/main/Fullin-erscr.sh && chmod +x install.sh && sudo ./install.sh
 ```
 
 ### Debian:
 
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/d0ct0rvrach/Lazy-Flash/refs/heads/main/Fullin-ersr.sh && chmod +x install.sh && ./install.sh
+wget -O install.sh https://raw.githubusercontent.com/d0ct0rvrach/Lazy-Flash/refs/heads/main/Fullin-erscr.sh && chmod +x install.sh && ./install.sh
 ```
 
 ---
