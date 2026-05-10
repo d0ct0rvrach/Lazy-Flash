@@ -152,3 +152,9 @@ This toolset is designed for:
 * time-saving deployment workflow.
 
 ---
+
+# ‼ Attention!
+
+A default password is set during the panel installation; it is recommended that you change it after installation.
+
+Link to the main 3X-UI panel repository - https://github.com/MHSanaei/3x-ui
