@@ -152,9 +152,3 @@ This toolset is designed for:
 * time-saving deployment workflow.
 
 ---
-
-Если хочешь, дальше могу тебе:
-
-* сделать README “как у топ GitHub проекта” (badges, screenshots, structure);
-* или помочь превратить это в реально популярный open-source проект с оформлением уровня “serious tool”.
-
